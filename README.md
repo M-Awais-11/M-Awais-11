@@ -108,8 +108,6 @@ engineer:
 <div align="center">
 
   <!-- Interactive Activity Graph (Frequency Wave) -->
-  <h4>📈 Interactive Contribution & Commit Activity Graph</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Awais-11&theme=tokyo-night&area=true&hide_border=true&color=00F0FF&line=7928CA&point=FFFFFF" width="98%" alt="Awais's Activity Graph" />
 
   <br><br>
 
@@ -130,15 +128,6 @@ engineer:
   <img src="https://streak-stats.demolab.com?user=M-Awais-11&theme=tokyonight&hide_border=true&fire=00F0FF&ring=7928CA&currStreakNum=00F0FF" alt="GitHub Contribution Streak" />
 
 </div>
-
----
-
-### 🎮 Contribution Grid Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
 ---
 
 ### 🌐 Let's Connect & Collaborate
