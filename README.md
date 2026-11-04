@@ -1,159 +1,250 @@
+# Muhammad Awais Afzal | AI/ML Engineer
+
 <div align="center">
 
-  <!-- 🌊 Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28,42,50&height=220&section=header&text=Muhammad%20Awais%20Afzal&fontSize=48&fontAlignY=38&animation=twinkling&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Autonomous%20Agents&descFontSize=20&descAlignY=62" width="100%" alt="Animated Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:312E81,100:06B6D4&height=230&section=header&text=Muhammad%20Awais%20Afzal&fontSize=43&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Agentic%20AI&descSize=17&descAlignY=60&descColor=BAE6FD" width="100%" />
 
-  <!-- ⚡ Quick Connect & Social Badges -->
-  <p align="center">
-    <a href="https://my-portfolio-six-tan-45.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0a" alt="Live Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/m-awais-097a39306" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/M-Awais-11" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-7928CA?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
-    </a>
-  </p>
+<br/>
 
-  <!-- 💻 Dynamic Animated Typing Terminal -->
-  <a href="https://my-portfolio-six-tan-45.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents+%26+RAG+Systems;Computer+Vision+%E2%80%A2+YOLOv8+%E2%80%A2+Deep+Learning;Scalable+Python+Backends+(FastAPI+%7C+Django);Creator+of+DevMind%3A+The+Context-Aware+AI+IDE" alt="Animated Typing Terminal" />
-  </a>
+<a href="https://my-portfolio-six-tan-45.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/m-awais-097a39306">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/M-Awais-11">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:muhammadawaisafzal444@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems;Developing+Autonomous+AI+Agents;Engineering+LLM+%26+RAG+Applications;Computer+Vision+%7C+Deep+Learning+%7C+Generative+AI;Creating+DevMind+%E2%80%94+An+AI-Powered+IDE" alt="Typing SVG" />
+
+<br/>
+
+**Turning ideas into intelligent, practical and scalable software systems.**
 
 </div>
 
 ---
 
-### 🧭 About Me & Engineering Focus
+## 01. About Me
 
-```yaml
-engineer:
-  name: Muhammad Awais Afzal
-  degree: BS Computer Science @ Government College University Faisalabad (GCUF)
-  focus_areas: [Agentic Workflows, Multimodal AI, Production Backends, LLM Tooling]
-  current_flagship: DevMind (Autonomous AI-driven IDE & Workflow Orchestrator)
-  core_stack: [Python, PyTorch, FastAPI, OpenCV, YOLOv8, PostgreSQL, Docker]
-  status: "Open for high-impact AI/ML & Python roles | Global Remote"
-```
+I'm **Muhammad Awais Afzal**, an AI/ML Engineer and Python Developer passionate about building intelligent applications that solve real-world problems.
 
-- 🧠 **AI & Reasoning:** Designing autonomous agent loops, context-aware code-synthesis tools, and RAG architectures.
-- 👁️ **Computer Vision:** High-throughput image processing, real-time object tracking, and veterinary diagnostic networks.
-- ⚡ **Backend Mastery:** Designing async, low-latency microservices with **FastAPI** and **Django REST Framework**.
+My engineering interests focus on combining artificial intelligence, autonomous agents, modern backend architectures, and software engineering to create systems that go beyond traditional automation.
+
+- 🎓 **Education:** BS Computer Science — Government College University Faisalabad.
+- 💼 **Experience:** AI/ML Engineer | Python Developer at Bestofknits.
+- 🧠 **Specialization:** Machine Learning, Deep Learning, Generative AI and Agentic AI.
+- 👁️ **Computer Vision:** Image processing, object detection and YOLO-based systems.
+- ⚙️ **Backend Engineering:** Python, Django, Django REST Framework and FastAPI.
+- 🚀 **Current Flagship Project:** DevMind — Context-Aware Autonomous AI IDE.
+- 🌍 **Career Interests:** AI Engineering, GenAI and Remote Software Engineering Opportunities.
+
+### Engineering Philosophy
+
+> I believe the future of software engineering is not just about writing code faster, but building intelligent systems that can understand context, reason about tasks, execute workflows, and verify their own results.
 
 ---
 
-### 🛠️ Interactive Tech Stack & Ecosystem
+## 02. Professional Experience
+
+**AI/ML Engineer | Python Developer**
+
+**Bestofknits** · December 2024 – Present
+
+Working across Python development and AI/ML engineering, with a focus on developing intelligent solutions and applying machine learning techniques to practical software applications.
+
+---
+
+## 03. Technical Expertise
 
 <div align="center">
 
-#### AI, Deep Learning & Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&theme=dark" alt="AI Stack" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</p>
+### Artificial Intelligence & Machine Learning
 
-#### Backend, Databases & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,docker,git,github,linux&theme=dark" alt="Backend Stack" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
+
+### Generative AI & Agentic Systems
+
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-Autonomous%20Workflows-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-LLM%20Tooling-0D9488?style=for-the-badge" />
+
+### Backend & API Engineering
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql&theme=dark" />
+
+### Development Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" />
+
+### Data Science & Visualization
+
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=flat-square" />
+<img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 
 </div>
 
 ---
 
-### 🚀 Highlighted Systems & Projects
+## 04. Featured Engineering Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 DevMind — Autonomous AI IDE</h3>
-      <p>Context-aware development engine capable of reading file trees, planning task workflows, editing codebases with AST validation, and self-debugging via feedback loops.</p>
-      <b>Tech:</b> <code>Python</code> <code>Agentic Workflows</code> <code>AST</code> <code>LLMs</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐄 Clinipaws — Smart Livestock Health AI</h3>
-      <p>AI-assisted veterinary platform coupling symptom-based classification with custom CV models for visual disease and lesion diagnosis with tele-vet reporting.</p>
-      <b>Tech:</b> <code>Computer Vision</code> <code>FastAPI</code> <code>PyTorch</code> <code>Streamlit</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 DataPilot AI — Autonomous DS Agent</h3>
-      <p>Self-directed agent that ingests raw tabular datasets, runs automated exploratory analysis (EDA), hypothesizes correlations, and generates executable data visualizations.</p>
-      <b>Tech:</b> <code>Autonomous Agents</code> <code>Pandas</code> <code>Matplotlib</code> <code>OpenAI API</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👁️ Pure-Sight — High-FPS Vision Engine</h3>
-      <p>Low-latency inference pipeline applying custom YOLOv8 models for real-time multi-class tracking, automated bounding alerts, and real-time inference telemetry.</p>
-      <b>Tech:</b> <code>YOLOv8</code> <code>OpenCV</code> <code>Inference Optimization</code> <code>Streamlit</code>
-    </td>
-  </tr>
-</table>
+### 🧠 DevMind — Autonomous AI-Powered IDE
 
-<p align="center">
-  👉 <i>Explore live deployments and code on my <a href="https://my-portfolio-six-tan-45.vercel.app/"><b>Interactive Portfolio</b></a> or <a href="https://github.com/M-Awais-11?tab=repositories"><b>GitHub Repositories</b></a>.</i>
-</p>
+<img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-7C3AED?style=for-the-badge" />
+
+An intelligent development environment designed to transform natural-language instructions into structured software engineering workflows.
+
+**Core Capabilities**
+- Project-aware context understanding and file exploration.
+- Autonomous task planning and execution.
+- Intelligent code generation and modification.
+- Debugging and iterative problem solving.
+- Agent-based workflows for development tasks.
+- Real-time communication between AI services and the IDE.
+
+**Engineering Stack:** Python · FastAPI · Angular · LLMs · RAG · AI Agents · WebSockets
 
 ---
 
-### 📊 Dynamic GitHub Activity Graphs
+### 🐄 Clinipaws — AI-Powered Livestock Disease Detection and Advisory Platform
+
+An AI-assisted veterinary platform designed to support livestock disease identification and veterinary collaboration.
+
+**Core Capabilities**
+- Symptom-based disease classification.
+- Image-based livestock disease identification.
+- AI-generated diagnostic reports.
+- Doctor verification and veterinary feedback.
+- Case history and educational resources.
+- AI chatbot for veterinary guidance.
+
+**Engineering Stack:** Python · Django · Machine Learning · DistilBERT · Logistic Regression · Computer Vision · Roboflow
+
+---
+
+### 📊 DataPilot AI — Autonomous Data Scientist
+
+An AI-powered data analysis system designed to automate exploratory data analysis and assist with understanding structured datasets.
+
+**Core Capabilities**
+- Automated dataset ingestion and inspection.
+- Data cleaning and preprocessing.
+- Exploratory data analysis.
+- Statistical insights and correlation analysis.
+- Automated visualization generation.
+- AI-assisted analytical workflows.
+
+**Engineering Stack:** Python · Pandas · NumPy · Matplotlib · Machine Learning · LLMs
+
+---
+
+### 👁️ Pure-Sight — Computer Vision System
+
+A computer vision application focused on real-time object detection and visual analysis using custom-trained deep learning models.
+
+**Core Capabilities**
+- YOLO-based object detection.
+- Real-time image and video processing.
+- Multi-class object identification.
+- Detection visualization.
+- Inference monitoring.
+
+**Engineering Stack:** Python · YOLOv8 · OpenCV · PyTorch · Streamlit
+
+---
 
 <div align="center">
 
-  <!-- Interactive Activity Graph (Frequency Wave) -->
+**Explore more projects**
 
-  <br><br>
-
-  <!-- Side-by-Side Analytics Dashboard -->
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=M-Awais-11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Awais-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Contribution Streak -->
-  <br>
-  <img src="https://streak-stats.demolab.com?user=M-Awais-11&theme=tokyonight&hide_border=true&fire=00F0FF&ring=7928CA&currStreakNum=00F0FF" alt="GitHub Contribution Streak" />
+<a href="https://github.com/M-Awais-11?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
+
 ---
 
-### 🌐 Let's Connect & Collaborate
+## 05. GitHub Analytics
 
 <div align="center">
 
-  <p>I'm always keen to discuss <b>AI Agents</b>, <b>LLM Infrastructure</b>, and <b>Scalable Backend Engineering</b>.</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Awais-11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Awais-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-  <a href="https://my-portfolio-six-tan-45.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/m-awais-097a39306" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/M-Awais-11" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<br/><br/>
 
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=50,42,28,14,2&height=90&section=footer" width="100%" alt="Footer Banner" />
+<img width="75%" src="https://streak-stats.demolab.com?user=M-Awais-11&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" />
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=M-Awais-11&color=00F0FF&style=flat-square&label=Profile+Visitors+Count" alt="Visitor Counter" />
-  </p>
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Awais-11&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 06. What I'm Exploring
+
+| Area | Engineering Focus |
+|---|---|
+| Agentic AI | Autonomous planning, execution and verification |
+| Generative AI | LLM applications and intelligent assistants |
+| RAG Systems | Context retrieval and knowledge-grounded generation |
+| Computer Vision | Object detection and real-time visual intelligence |
+| Backend Systems | Scalable APIs and production-ready architectures |
+| AI Engineering | Integrating intelligent models into practical applications |
+
+---
+
+## 07. Let's Build Something Intelligent
+
+I'm interested in collaborating on meaningful projects involving AI engineering, autonomous agents, Generative AI and scalable Python applications.
+
+Whether it's building an intelligent product, discussing an engineering challenge, or exploring an opportunity, feel free to connect.
+
+<div align="center">
+
+<a href="https://my-portfolio-six-tan-45.vercel.app/">
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/m-awais-097a39306">
+<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:muhammadawaisafzal444@gmail.com">
+<img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=M-Awais-11&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090B&height=130&section=footer" width="100%" />
+
+**Building Intelligence. Engineering Possibilities.**
 
 </div>
