@@ -5,7 +5,7 @@
 
 <!-- ⌨️ Typing Terminal -->
 <a href="https://my-portfolio-six-tan-45.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=760&lines=Building+Autonomous+AI+Agents+%26+RAG+Systems;Computer+Vision+%E2%80%A2+YOLOv8+%E2%80%A2+Deep+Learning;Scalable+Python+Backends+(FastAPI+%7C+Django);Creator+of+DevMind%3A+The+Context-Aware+AI+IDE" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=780&lines=Building+Autonomous+AI+Agents+%26+RAG+Systems;Computer+Vision+%E2%80%A2+YOLOv8+%E2%80%A2+Deep+Learning;Scalable+Python+Backends+(FastAPI+%7C+Django);Creator+of+DevMind%3A+The+Context-Aware+AI+IDE;Turning+research+into+production+systems" alt="Typing" />
 </a>
 
 <br>
@@ -21,6 +21,22 @@
 <img src="https://komarev.com/ghpvc/?username=M-Awais-11&color=00F0FF&style=flat-square&label=Profile+Views" alt="Views" />
 <img src="https://img.shields.io/github/followers/M-Awais-11?style=flat-square&color=7928CA&labelColor=0a0a0a" alt="Followers" />
 <img src="https://img.shields.io/github/stars/M-Awais-11?style=flat-square&color=00F0FF&labelColor=0a0a0a&label=Total%20Stars" alt="Stars" />
+<img src="https://img.shields.io/github/repo-size/M-Awais-11/M-Awais-11?style=flat-square&color=7928CA&labelColor=0a0a0a" alt="Repo size" />
+<img src="https://img.shields.io/github/last-commit/M-Awais-11/M-Awais-11?style=flat-square&color=00F0FF&labelColor=0a0a0a" alt="Last commit" />
+
+</div>
+
+<br>
+
+> 💡 *"Models are easy to train. Systems are hard to ship. I like the hard part."*
+
+---
+
+## 📑 Quick Navigation
+
+<div align="center">
+
+[🧭 About](#-about-me) • [🎯 Now](#-currently) • [🛠️ Stack](#️-tech-stack) • [🏗️ Architecture](#️-system-architecture) • [🚀 Projects](#-featured-projects) • [📊 Analytics](#-github-analytics) • [🎓 Journey](#-journey) • [🤝 Hire Me](#-work-with-me) • [🌐 Connect](#-lets-connect)
 
 </div>
 
@@ -32,7 +48,7 @@
 engineer:
   name: Muhammad Awais Afzal
   degree: BS Computer Science @ GCUF (Government College University Faisalabad)
-  location: Faisalabad, Pakistan 🇵🇰  (Global Remote)
+  location: Faisalabad, Pakistan 🇵🇰   # open to Global Remote
   focus_areas:
     - Agentic Workflows
     - Multimodal AI
@@ -41,21 +57,47 @@ engineer:
   current_flagship: DevMind — Autonomous AI-driven IDE & Workflow Orchestrator
   core_stack: [Python, PyTorch, FastAPI, OpenCV, YOLOv8, PostgreSQL, Docker]
   philosophy: "Ship models, not notebooks."
-  status: "Open for high-impact AI/ML & Python roles"
+  looking_for: "High-impact AI/ML & Python engineering roles"
 ```
+
+<div align="center">
 
 | 🧠 **AI & Reasoning** | 👁️ **Computer Vision** | ⚡ **Backend Engineering** |
 |:---:|:---:|:---:|
 | Autonomous agent loops, context-aware code synthesis, RAG pipelines | Real-time tracking, high-FPS inference, veterinary diagnostics | Async low-latency microservices with FastAPI & Django REST |
 
+</div>
+
 ---
 
 ## 🎯 Currently
 
-- 🔭 **Building:** DevMind — autonomous IDE with AST-validated edits and self-debugging loops
-- 🌱 **Exploring:** Multi-agent orchestration, tool-calling reliability, LLM evaluation
-- ⚙️ **Optimizing:** YOLOv8 inference latency & deployment (ONNX / TensorRT)
-- 🤝 **Looking for:** AI/ML Engineer, Python Backend, or LLM Applications roles
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Building**
+- DevMind: AST-validated edits + self-debugging loops
+- Multi-agent orchestration layer
+
+**🌱 Exploring**
+- Tool-calling reliability in LLM agents
+- LLM evaluation & guardrails
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Optimizing**
+- YOLOv8 inference latency (ONNX / TensorRT)
+- Async FastAPI pipelines under load
+
+**🤝 Looking for**
+- AI/ML Engineer roles
+- Python backend & LLM application work
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,6 +114,7 @@ engineer:
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
 
 #### ⚙️ Backend, Databases & DevOps
 <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,docker,git,github,linux,redis,nginx&theme=dark" />
@@ -81,9 +124,23 @@ engineer:
 
 </div>
 
+<details>
+<summary><b>📈 Proficiency map (click to expand)</b></summary>
+<br>
+
+| Tier | Technologies |
+|:---|:---|
+| 🟢 **Core — daily driver** | Python, PyTorch, FastAPI, OpenCV, YOLOv8, Pandas, NumPy, Git |
+| 🔵 **Working — production use** | Django REST, PostgreSQL, Docker, Scikit-Learn, Streamlit, LLM APIs |
+| 🟣 **Growing — actively learning** | LangChain agents, ONNX/TensorRT, Redis, CI/CD, MLOps, evaluation tooling |
+
+</details>
+
 ---
 
-## 🏗️ DevMind — How the Agent Loop Works
+## 🏗️ System Architecture
+
+#### 🧠 DevMind — Agent Loop
 
 ```mermaid
 flowchart LR
@@ -97,6 +154,58 @@ flowchart LR
     G -- Fail --> F
     G -- Pass --> H([🚀 Apply Changes])
 ```
+
+<details>
+<summary><b>👁️ Pure-Sight — Real-time Vision Pipeline</b></summary>
+
+```mermaid
+flowchart LR
+    A[📹 Video / Camera Stream] --> B[🖼️ Frame Capture<br/>OpenCV]
+    B --> C[⚙️ Pre-processing<br/>Resize / Normalize]
+    C --> D[🎯 YOLOv8 Inference]
+    D --> E[🔁 Multi-class Tracking]
+    E --> F[🚨 Bounding Alerts]
+    E --> G[📈 Inference Telemetry<br/>FPS / Latency]
+    F --> H[🖥️ Streamlit Dashboard]
+    G --> H
+```
+
+</details>
+
+<details>
+<summary><b>🐄 Clinipaws — Diagnosis Flow</b></summary>
+
+```mermaid
+flowchart TB
+    U([🧑‍🌾 Farmer / Vet]) --> S[📝 Symptoms Input]
+    U --> I[📷 Lesion Image Upload]
+    S --> C1[📊 Symptom Classifier]
+    I --> C2[👁️ CV Model<br/>PyTorch]
+    C1 --> M[🧮 Result Fusion]
+    C2 --> M
+    M --> R[📄 Diagnosis Report]
+    R --> T[🩺 Tele-vet Review]
+    API[(⚡ FastAPI Backend)] -.serves.-> C1
+    API -.serves.-> C2
+```
+
+</details>
+
+<details>
+<summary><b>📊 DataPilot AI — Autonomous Analysis Loop</b></summary>
+
+```mermaid
+flowchart LR
+    A[📁 Raw Dataset] --> B[🔍 Auto EDA]
+    B --> C[💭 Hypothesis<br/>Generation]
+    C --> D[💻 Generate Code<br/>Pandas / Matplotlib]
+    D --> E{▶️ Execute<br/>Success?}
+    E -- No --> F[🛠️ Fix Code]
+    F --> D
+    E -- Yes --> G[📈 Insights & Charts]
+```
+
+</details>
 
 ---
 
@@ -130,7 +239,7 @@ flowchart LR
 </table>
 
 <details>
-<summary><b>📌 Pinned repositories (live)</b></summary>
+<summary><b>📌 Pinned repositories (live cards)</b></summary>
 <br>
 
 <div align="center">
@@ -143,8 +252,6 @@ flowchart LR
 
 </div>
 
-> ⚠️ Repo names upar apne actual repository names se match kar lein, warna card empty aayega.
-
 </details>
 
 <p align="center">
@@ -155,14 +262,17 @@ flowchart LR
 
 ## 🧩 Engineering Principles
 
-<details>
+<details open>
 <summary><b>How I build AI systems</b></summary>
+<br>
 
-- **Evaluate before you scale** — every agent/model gets a measurable benchmark first.
-- **Validate model output** — AST checks, schema validation, and guardrails around LLM calls.
-- **Latency is a feature** — async I/O, batching, caching, and optimized inference paths.
-- **Reproducible by default** — Docker, pinned dependencies, and environment parity.
-- **Observability** — logs, telemetry, and traces so failures are debuggable.
+| Principle | What it means in practice |
+|:---|:---|
+| 📏 **Evaluate before scaling** | Every agent or model gets a measurable benchmark first |
+| 🛡️ **Never trust raw LLM output** | AST checks, schema validation, guardrails around every call |
+| ⚡ **Latency is a feature** | Async I/O, batching, caching, optimized inference paths |
+| 🐳 **Reproducible by default** | Docker, pinned dependencies, environment parity |
+| 🔭 **Observable systems** | Logs, telemetry, and traces so failures are debuggable |
 
 </details>
 
@@ -210,14 +320,63 @@ flowchart LR
 
 ---
 
+## 🎓 Journey
+
+```mermaid
+timeline
+    title Engineering Path
+    section Foundation
+        BS Computer Science : GCUF Faisalabad
+        Python & ML fundamentals : Pandas, NumPy, Scikit-Learn
+    section Specialization
+        Deep Learning & Vision : PyTorch, OpenCV, YOLOv8
+        Backend Engineering : FastAPI, Django REST, PostgreSQL
+    section Systems
+        Clinipaws : Livestock health AI
+        Pure-Sight : High-FPS vision engine
+        DataPilot AI : Autonomous DS agent
+    section Now
+        DevMind : Autonomous AI IDE
+```
+
+---
+
 ## 🗺️ Roadmap 2026
 
 - [x] Ship DevMind v1 with AST-validated edits
 - [x] Deploy Clinipaws CV pipeline
 - [ ] Multi-agent orchestration inside DevMind
 - [ ] ONNX / TensorRT optimization for Pure-Sight
-- [ ] Publish an LLM evaluation toolkit (open source)
-- [ ] Write technical deep-dives on agent reliability
+- [ ] Open-source an LLM evaluation toolkit
+- [ ] Publish technical deep-dives on agent reliability
+
+---
+
+## 🤝 Work With Me
+
+<div align="center">
+
+| 🧠 **AI Agents & LLM Apps** | 👁️ **Computer Vision Systems** | ⚡ **Python Backends** |
+|:---:|:---:|:---:|
+| Agentic workflows, RAG, tool-calling, code-synthesis tools | Detection, tracking, real-time inference, deployment | FastAPI / Django APIs, PostgreSQL, Docker, async services |
+
+<br>
+
+<a href="https://www.linkedin.com/in/m-awais-097a39306"><img src="https://img.shields.io/badge/💼_Let's_Talk-Message_on_LinkedIn-0077B5?style=for-the-badge&labelColor=0a0a0a" /></a>
+
+</div>
+
+<details>
+<summary><b>❓ FAQ</b></summary>
+<br>
+
+**Are you open to remote work?** Yes — globally remote, flexible with time zones.
+
+**What kind of roles fit best?** AI/ML Engineer, LLM Applications Engineer, Python Backend Engineer, Computer Vision Engineer.
+
+**How do I reach you fastest?** LinkedIn message or the contact section of my portfolio.
+
+</details>
 
 ---
 
