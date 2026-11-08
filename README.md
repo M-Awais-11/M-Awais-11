@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/header.svg" width="100%" alt="Muhammad Awais Afzal — AI/ML Engineer" />
-
 <a href="https://my-portfolio-six-tan-45.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=1000&color=CBA6F7&background=00000000&center=true&vCenter=true&width=760&lines=Muhammad+Awais+Afzal;AI%2FML+Engineer;Building+DevMind%2C+an+autonomous+AI+IDE;Open+to+work+%E2%80%94+globally+remote" alt="Typing" />
 </a>
