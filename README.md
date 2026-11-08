@@ -1,42 +1,39 @@
 <div align="center">
 
-<!-- 🌊 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,14,28,42,50&height=260&section=header&text=Muhammad%20Awais%20Afzal&fontSize=50&fontAlignY=36&animation=fadeIn&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Autonomous%20Agents&descSize=20&descAlignY=58" width="100%" alt="Header" />
+<!-- 🔥 Ember Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24&height=270&section=header&text=Muhammad%20Awais%20Afzal&fontSize=48&fontColor=FFF3E0&fontAlignY=38&animation=twinkling&desc=AI%2FML%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Autonomous%20Agents&descSize=19&descColor=FFD9A0&descAlignY=60" width="100%" alt="Header" />
 
-<!-- ⌨️ Typing Terminal -->
+<!-- ⌨️ Typing -->
 <a href="https://my-portfolio-six-tan-45.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=780&lines=Building+Autonomous+AI+Agents+%26+RAG+Systems;Computer+Vision+%E2%80%A2+YOLOv8+%E2%80%A2+Deep+Learning;Scalable+Python+Backends+(FastAPI+%7C+Django);Creator+of+DevMind%3A+The+Context-Aware+AI+IDE;Turning+research+into+production+systems" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=FFB347&background=00000000&center=true&vCenter=true&width=800&lines=Building+Autonomous+AI+Agents+%26+RAG+Systems;Computer+Vision+%C2%B7+YOLOv8+%C2%B7+Deep+Learning;Scalable+Python+Backends+(FastAPI+%7C+Django);Creator+of+DevMind%3A+The+Context-Aware+AI+IDE;Turning+research+into+production+systems" alt="Typing" />
 </a>
-
-<br>
-
-<a href="https://my-portfolio-six-tan-45.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0a" /></a>
-<a href="https://www.linkedin.com/in/m-awais-097a39306"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
-<a href="https://github.com/M-Awais-11"><img src="https://img.shields.io/badge/GitHub-7928CA?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" /></a>
-<img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Remote-Global-00F0FF?style=for-the-badge&labelColor=0a0a0a" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=M-Awais-11&color=00F0FF&style=flat-square&label=Profile+Views" alt="Views" />
-<img src="https://img.shields.io/github/followers/M-Awais-11?style=flat-square&color=7928CA&labelColor=0a0a0a" alt="Followers" />
-<img src="https://img.shields.io/github/stars/M-Awais-11?style=flat-square&color=00F0FF&labelColor=0a0a0a&label=Total%20Stars" alt="Stars" />
-<img src="https://img.shields.io/github/repo-size/M-Awais-11/M-Awais-11?style=flat-square&color=7928CA&labelColor=0a0a0a" alt="Repo size" />
-<img src="https://img.shields.io/github/last-commit/M-Awais-11/M-Awais-11?style=flat-square&color=00F0FF&labelColor=0a0a0a" alt="Last commit" />
+<a href="https://my-portfolio-six-tan-45.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-FF7A18?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" /></a>
+<a href="https://www.linkedin.com/in/m-awais-097a39306"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" /></a>
+<a href="https://github.com/M-Awais-11"><img src="https://img.shields.io/badge/GitHub-E4405F?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" /></a>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-FFB347?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Remote-Global-FF7A18?style=for-the-badge&labelColor=1a1a1a" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=M-Awais-11&color=FF7A18&style=flat-square&label=Profile+Views" alt="Views" />
+<img src="https://img.shields.io/github/followers/M-Awais-11?style=flat-square&color=E4405F&labelColor=1a1a1a" alt="Followers" />
+<img src="https://img.shields.io/github/stars/M-Awais-11?style=flat-square&color=FFB347&labelColor=1a1a1a&label=Total%20Stars" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/M-Awais-11/M-Awais-11?style=flat-square&color=FF7A18&labelColor=1a1a1a" alt="Last commit" />
 
 </div>
 
 <br>
 
-> 💡 *"Models are easy to train. Systems are hard to ship. I like the hard part."*
+> 🔥 *"Models are easy to train. Systems are hard to ship. I like the hard part."*
 
 ---
 
-## 📑 Quick Navigation
-
 <div align="center">
 
-[🧭 About](#-about-me) • [🎯 Now](#-currently) • [🛠️ Stack](#️-tech-stack) • [🏗️ Architecture](#️-system-architecture) • [🚀 Projects](#-featured-projects) • [📊 Analytics](#-github-analytics) • [🎓 Journey](#-journey) • [🤝 Hire Me](#-work-with-me) • [🌐 Connect](#-lets-connect)
+[🧭 About](#-about-me) · [🎯 Now](#-currently) · [🛠️ Stack](#️-tech-stack) · [🏗️ Architecture](#️-system-architecture) · [🚀 Projects](#-featured-projects) · [📊 Analytics](#-github-analytics) · [🤝 Hire Me](#-work-with-me)
 
 </div>
 
@@ -44,21 +41,34 @@
 
 ## 🧭 About Me
 
-```yaml
-engineer:
-  name: Muhammad Awais Afzal
-  degree: BS Computer Science @ GCUF (Government College University Faisalabad)
-  location: Faisalabad, Pakistan 🇵🇰   # open to Global Remote
-  focus_areas:
-    - Agentic Workflows
-    - Multimodal AI
-    - Production Backends
-    - LLM Tooling
-  current_flagship: DevMind — Autonomous AI-driven IDE & Workflow Orchestrator
-  core_stack: [Python, PyTorch, FastAPI, OpenCV, YOLOv8, PostgreSQL, Docker]
-  philosophy: "Ship models, not notebooks."
-  looking_for: "High-impact AI/ML & Python engineering roles"
-```
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm a **BS Computer Science** student at **GCUF (Government College University Faisalabad)** who builds AI that actually ships: autonomous agents, real-time vision pipelines and production-grade Python backends.
+
+- 🎓 **Education:** BS Computer Science, GCUF
+- 📍 **Based in:** Faisalabad, Pakistan 🇵🇰 — open to **global remote**
+- 🚀 **Flagship:** DevMind — Autonomous AI-driven IDE & Workflow Orchestrator
+- 🧠 **Focus:** Agentic Workflows · Multimodal AI · Production Backends · LLM Tooling
+- 🎯 **Looking for:** High-impact AI/ML & Python engineering roles
+- 💬 **Philosophy:** *Ship models, not notebooks.*
+
+</td>
+<td width="42%" valign="top">
+
+| 🧰 | Core stack |
+|:--|:--|
+| 🐍 | Python |
+| 🔥 | PyTorch |
+| ⚡ | FastAPI |
+| 👁️ | OpenCV · YOLOv8 |
+| 🐘 | PostgreSQL |
+| 🐳 | Docker |
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -107,14 +117,14 @@ engineer:
 
 #### 🤖 AI, Deep Learning & Vision
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&theme=dark" /><br><br>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
 
 #### ⚙️ Backend, Databases & DevOps
 <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,docker,git,github,linux,redis,nginx&theme=dark" />
@@ -130,9 +140,9 @@ engineer:
 
 | Tier | Technologies |
 |:---|:---|
-| 🟢 **Core — daily driver** | Python, PyTorch, FastAPI, OpenCV, YOLOv8, Pandas, NumPy, Git |
-| 🔵 **Working — production use** | Django REST, PostgreSQL, Docker, Scikit-Learn, Streamlit, LLM APIs |
-| 🟣 **Growing — actively learning** | LangChain agents, ONNX/TensorRT, Redis, CI/CD, MLOps, evaluation tooling |
+| 🔥 **Core — daily driver** | Python, PyTorch, FastAPI, OpenCV, YOLOv8, Pandas, NumPy, Git |
+| 🟠 **Working — production use** | Django REST, PostgreSQL, Docker, Scikit-Learn, Streamlit, LLM APIs |
+| 🌱 **Growing — actively learning** | LangChain agents, ONNX/TensorRT, Redis, CI/CD, MLOps, evaluation tooling |
 
 </details>
 
@@ -143,6 +153,7 @@ engineer:
 #### 🧠 DevMind — Agent Loop
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2b1a10','primaryTextColor':'#FFE8CC','primaryBorderColor':'#FF7A18','lineColor':'#FFB347','secondaryColor':'#3a2314','tertiaryColor':'#1a1a1a'}}}%%
 flowchart LR
     A([👤 User Task]) --> B[📂 Read File Tree<br/>& Build Context]
     B --> C[🧠 LLM Planner<br/>Task Decomposition]
@@ -159,6 +170,7 @@ flowchart LR
 <summary><b>👁️ Pure-Sight — Real-time Vision Pipeline</b></summary>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2b1a10','primaryTextColor':'#FFE8CC','primaryBorderColor':'#FF7A18','lineColor':'#FFB347','secondaryColor':'#3a2314','tertiaryColor':'#1a1a1a'}}}%%
 flowchart LR
     A[📹 Video / Camera Stream] --> B[🖼️ Frame Capture<br/>OpenCV]
     B --> C[⚙️ Pre-processing<br/>Resize / Normalize]
@@ -176,6 +188,7 @@ flowchart LR
 <summary><b>🐄 Clinipaws — Diagnosis Flow</b></summary>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2b1a10','primaryTextColor':'#FFE8CC','primaryBorderColor':'#FF7A18','lineColor':'#FFB347','secondaryColor':'#3a2314','tertiaryColor':'#1a1a1a'}}}%%
 flowchart TB
     U([🧑‍🌾 Farmer / Vet]) --> S[📝 Symptoms Input]
     U --> I[📷 Lesion Image Upload]
@@ -195,6 +208,7 @@ flowchart TB
 <summary><b>📊 DataPilot AI — Autonomous Analysis Loop</b></summary>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2b1a10','primaryTextColor':'#FFE8CC','primaryBorderColor':'#FF7A18','lineColor':'#FFB347','secondaryColor':'#3a2314','tertiaryColor':'#1a1a1a'}}}%%
 flowchart LR
     A[📁 Raw Dataset] --> B[🔍 Auto EDA]
     B --> C[💭 Hypothesis<br/>Generation]
@@ -216,30 +230,42 @@ flowchart LR
     <td width="50%" valign="top">
       <h3>🧠 DevMind — Autonomous AI IDE</h3>
       <p>Context-aware development engine that reads file trees, plans task workflows, edits codebases with AST validation, and self-debugs via feedback loops.</p>
-      <b>Tech:</b> <code>Python</code> <code>Agentic Workflows</code> <code>AST</code> <code>LLMs</code>
+      <img src="https://img.shields.io/badge/Python-FF7A18?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agentic_Workflows-E4405F?style=flat-square" />
+      <img src="https://img.shields.io/badge/AST-FFB347?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/LLMs-8A4FFF?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🐄 Clinipaws — Livestock Health AI</h3>
       <p>AI-assisted veterinary platform combining symptom-based classification with custom CV models for lesion & disease diagnosis, plus tele-vet reporting.</p>
-      <b>Tech:</b> <code>Computer Vision</code> <code>FastAPI</code> <code>PyTorch</code> <code>Streamlit</code>
+      <img src="https://img.shields.io/badge/Computer_Vision-FF7A18?style=flat-square" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📊 DataPilot AI — Autonomous DS Agent</h3>
       <p>Self-directed agent that ingests raw tabular data, runs automated EDA, hypothesizes correlations, and generates executable visualizations.</p>
-      <b>Tech:</b> <code>Autonomous Agents</code> <code>Pandas</code> <code>Matplotlib</code> <code>OpenAI API</code>
+      <img src="https://img.shields.io/badge/Autonomous_Agents-E4405F?style=flat-square" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>👁️ Pure-Sight — High-FPS Vision Engine</h3>
       <p>Low-latency inference pipeline using custom YOLOv8 for real-time multi-class tracking, automated bounding alerts, and live inference telemetry.</p>
-      <b>Tech:</b> <code>YOLOv8</code> <code>OpenCV</code> <code>Inference Optimization</code> <code>Streamlit</code>
+      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Inference_Optimization-FF7A18?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  👉 <i>Live demos & code: <a href="https://my-portfolio-six-tan-45.vercel.app/"><b>Interactive Portfolio</b></a> • <a href="https://github.com/M-Awais-11?tab=repositories"><b>All Repositories</b></a></i>
+  👉 <i>Live demos & code: <a href="https://my-portfolio-six-tan-45.vercel.app/"><b>Interactive Portfolio</b></a> · <a href="https://github.com/M-Awais-11?tab=repositories"><b>All Repositories</b></a></i>
 </p>
 
 ---
@@ -267,26 +293,25 @@ flowchart LR
 <div align="center">
 
 <!-- Cards generated by GitHub Action (.github/workflows/profile-summary-cards.yml) -->
-<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/gruvbox/0-profile-details.svg" alt="Profile details" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%" />
-<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top commit languages" width="49%" />
+<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/gruvbox/3-stats.svg" alt="Stats" width="49%" />
+<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Top commit languages" width="49%" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%" />
-<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
+<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/gruvbox/4-productive-time.svg" alt="Productive time" width="49%" />
 
 <br><br>
 
-<!-- Streak (works already) -->
-<img src="https://streak-stats.demolab.com?user=M-Awais-11&theme=tokyonight&hide_border=true&fire=00F0FF&ring=7928CA&currStreakNum=00F0FF" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=M-Awais-11&theme=gruvbox&hide_border=true&fire=FF7A18&ring=FFB347&currStreakNum=FFB347&background=282828" alt="Streak" />
 
 <br><br>
 
-<!-- 🐍 Snake (needs the workflow in .github/workflows/snake.yml) -->
+<!-- 🐍 Snake (needs .github/workflows/snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/output/github-snake.svg" />
@@ -294,6 +319,8 @@ flowchart LR
 </picture>
 
 </div>
+
+> ⚠️ **Note:** Profile-summary cards ka theme folder (`gruvbox`) tab hi chalega jab workflow `.github/workflows/profile-summary-cards.yml` mein `gruvbox` theme generate ho raha ho. Warna workflow mein theme add kar ke dobara run karein.
 
 ---
 
@@ -339,7 +366,7 @@ timeline
 
 <br>
 
-<a href="https://www.linkedin.com/in/m-awais-097a39306"><img src="https://img.shields.io/badge/💼_Let's_Talk-Message_on_LinkedIn-0077B5?style=for-the-badge&labelColor=0a0a0a" /></a>
+<a href="https://www.linkedin.com/in/m-awais-097a39306"><img src="https://img.shields.io/badge/💼_Let's_Talk-Message_on_LinkedIn-0077B5?style=for-the-badge&labelColor=1a1a1a" /></a>
 
 </div>
 
@@ -363,16 +390,16 @@ timeline
 
 <p>Always keen to talk <b>AI Agents</b>, <b>LLM Infrastructure</b> and <b>Scalable Backend Engineering</b>.</p>
 
-<a href="https://my-portfolio-six-tan-45.vercel.app/"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+<a href="https://my-portfolio-six-tan-45.vercel.app/"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF7A18?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/m-awais-097a39306"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/M-Awais-11"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/M-Awais-11"><img src="https://img.shields.io/badge/Follow_on_GitHub-E4405F?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
 
 <i>⭐ If something here helped you, drop a star — it keeps me shipping.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=50,42,28,14,2&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,12&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
