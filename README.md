@@ -1,203 +1,194 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2b1a10&height=90&section=header&text=awais%40devmind%3A~%24&fontSize=34&fontColor=FFB347&fontAlign=18&fontAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,3,6,10&height=230&section=header&text=Hi%2C%20I'm%20Awais&fontSize=58&fontColor=1e1e2e&fontAlignY=42&desc=I%20build%20AI%20that%20actually%20ships.&descSize=20&descColor=313244&descAlignY=64" width="100%" alt="Header" />
 
-<a href="https://my-portfolio-six-tan-45.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=FFB347&background=00000000&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Muhammad+Awais+Afzal;%24+role+%E2%86%92+AI%2FML+Engineer;%24+building+%E2%86%92+DevMind%2C+an+autonomous+AI+IDE;%24+status+%E2%86%92+open_to_work+%3D+True" alt="Typing" />
-</a>
+<h3>
+  AI/ML Engineer &nbsp;·&nbsp; Agents &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Python Backends
+</h3>
+
+<a href="https://my-portfolio-six-tan-45.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge&logo=vercel&logoColor=1e1e2e" /></a>
+<a href="https://www.linkedin.com/in/m-awais-097a39306"><img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" /></a>
+<a href="https://github.com/M-Awais-11"><img src="https://img.shields.io/badge/GitHub-f5c2e7?style=for-the-badge&logo=github&logoColor=1e1e2e" /></a>
+<img src="https://img.shields.io/badge/Open_to_work-a6e3a1?style=for-the-badge&logoColor=1e1e2e" />
+
+</div>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-FF7A18?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-six-tan-45.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-awais-097a39306)
-[![GitHub](https://img.shields.io/badge/github-E4405F?style=flat-square&logo=github&logoColor=white)](https://github.com/M-Awais-11)
-![Open to work](https://img.shields.io/badge/open_to_work-FFB347?style=flat-square)
-![Remote](https://img.shields.io/badge/remote-global-FF7A18?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=M-Awais-11&color=FF7A18&style=flat-square&label=views)
+## ✦ A little about me
 
-</div>
+I'm **Muhammad Awais Afzal**, a Computer Science student at **GCUF Faisalabad**, based in Pakistan and open to **remote work anywhere**.
 
-&nbsp;
+I'm happiest in the gap between a working notebook and a working product. My flagship project, **DevMind**, is an autonomous AI IDE that plans, edits and debugs code on its own. Around it I build computer vision systems and async Python backends that hold up under load.
 
-### `$ whoami`
+> *Models are easy to train. Systems are hard to ship. I like the hard part.*
 
-```python
-class Engineer:
-    name       = "Muhammad Awais Afzal"
-    education  = "BS Computer Science @ GCUF, Faisalabad"
-    location   = "Faisalabad, Pakistan 🇵🇰  (open to global remote)"
-    flagship   = "DevMind — autonomous AI-driven IDE & workflow orchestrator"
-    focus      = ["Agentic Workflows", "Multimodal AI", "Production Backends", "LLM Tooling"]
-    philosophy = "Ship models, not notebooks."
-    seeking    = "High-impact AI/ML & Python engineering roles"
-```
+<br>
 
-> *"Models are easy to train. Systems are hard to ship. I like the hard part."*
+## ✦ What I do
 
-&nbsp;
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-### `$ cat now.md`
+### 🧠
+**AI Agents & LLM Apps**
 
-| | |
-|:--|:--|
-| 🔭 **building** | DevMind — AST-validated edits, self-debugging loops, multi-agent orchestration |
-| 🌱 **exploring** | Tool-calling reliability in LLM agents · LLM evaluation & guardrails |
-| ⚙️ **optimizing** | YOLOv8 latency (ONNX / TensorRT) · async FastAPI pipelines under load |
-| 🤝 **seeking** | AI/ML Engineer · Python backend · LLM application work |
+Agentic workflows, RAG, tool-calling and code-synthesis tools, with guardrails around every model call.
 
-&nbsp;
+</td>
+<td width="33%" valign="top" align="center">
 
-### `$ ls ./stack`
+### 👁️
+**Computer Vision**
 
-```text
-ai/        pytorch  tensorflow  opencv  yolov8  scikit-learn  pandas  numpy
-llm/       openai  langchain  huggingface  onnx
-backend/   fastapi  django-rest  postgresql  mysql  redis  nginx
-devops/    docker  git  github-actions  linux
-tools/     vscode  jupyter  streamlit  postman
-```
+Detection, tracking and real-time inference with YOLOv8 and OpenCV, built for low latency.
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,django,postgres,docker,redis,linux,git&theme=dark" />
-</div>
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚡
+**Python Backends**
+
+FastAPI and Django REST services, PostgreSQL and Docker, designed to be async and observable.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ✦ Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 DevMind
+*Autonomous AI IDE*
+
+**Problem:** LLM code edits break things silently.
+**Approach:** read the file tree, plan the task, validate every patch with an AST check, then self-debug in a loop.
+
+<img src="https://img.shields.io/badge/Python-cba6f7?style=flat-square" />
+<img src="https://img.shields.io/badge/Agents-f5c2e7?style=flat-square" />
+<img src="https://img.shields.io/badge/AST-89b4fa?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-a6e3a1?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐄 Clinipaws
+*Livestock health AI*
+
+**Problem:** farmers often can't reach a vet quickly.
+**Approach:** combine a symptom classifier with a custom CV model for lesions, then hand the report to a tele-vet.
+
+<img src="https://img.shields.io/badge/PyTorch-fab387?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-a6e3a1?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-f38ba8?style=flat-square" />
+<img src="https://img.shields.io/badge/CV-89b4fa?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 DataPilot AI
+*Autonomous data-science agent*
+
+**Problem:** EDA is repetitive and slow.
+**Approach:** ingest raw data, run automated EDA, hypothesize correlations and generate executable charts.
+
+<img src="https://img.shields.io/badge/Pandas-89b4fa?style=flat-square" />
+<img src="https://img.shields.io/badge/Matplotlib-f9e2af?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI_API-cba6f7?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 👁️ Pure-Sight
+*High-FPS vision engine*
+
+**Problem:** real-time tracking needs tight latency.
+**Approach:** custom YOLOv8 pipeline with multi-class tracking, bounding alerts and live inference telemetry.
+
+<img src="https://img.shields.io/badge/YOLOv8-f5c2e7?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-a6e3a1?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-f38ba8?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<p align="center"><i>More demos and code → <a href="https://my-portfolio-six-tan-45.vercel.app/">portfolio</a> · <a href="https://github.com/M-Awais-11?tab=repositories">all repositories</a></i></p>
 
 <details>
-<summary><code>$ ./proficiency --show</code></summary>
-<br>
-
-```text
-CORE      ████████████  Python · PyTorch · FastAPI · OpenCV · YOLOv8 · Pandas · NumPy · Git
-WORKING   ████████░░░░  Django REST · PostgreSQL · Docker · Scikit-Learn · Streamlit · LLM APIs
-LEARNING  ████░░░░░░░░  LangChain agents · ONNX/TensorRT · Redis · CI/CD · MLOps · eval tooling
-```
-
-</details>
-
-&nbsp;
-
-### `$ ./projects --list`
-
-| # | Project | What it does | Stack |
-|:-:|:--|:--|:--|
-| 01 | **🧠 DevMind** | Reads file trees, plans workflows, edits code with AST validation, self-debugs via feedback loops | `Python` `Agents` `AST` `LLMs` |
-| 02 | **🐄 Clinipaws** | Livestock health AI: symptom classifier + CV lesion diagnosis + tele-vet reports | `PyTorch` `FastAPI` `Streamlit` |
-| 03 | **📊 DataPilot AI** | Ingests raw data, runs auto-EDA, hypothesizes correlations, generates executable charts | `Pandas` `Matplotlib` `OpenAI API` |
-| 04 | **👁️ Pure-Sight** | High-FPS YOLOv8 tracking with bounding alerts and live inference telemetry | `YOLOv8` `OpenCV` `Streamlit` |
-
-👉 [Live demos](https://my-portfolio-six-tan-45.vercel.app/) · [All repositories](https://github.com/M-Awais-11?tab=repositories)
-
-&nbsp;
-
-### `$ tree ./architecture`
-
-<details open>
-<summary><b>DevMind — agent loop</b></summary>
+<summary><b>How DevMind works (diagram)</b></summary>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2b1a10','primaryTextColor':'#FFE8CC','primaryBorderColor':'#FF7A18','lineColor':'#FFB347'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#313244','primaryTextColor':'#cdd6f4','primaryBorderColor':'#cba6f7','lineColor':'#89b4fa','secondaryColor':'#45475a','tertiaryColor':'#1e1e2e'}}}%%
 flowchart LR
-    A([User Task]) --> B[Read File Tree]
-    B --> C[LLM Planner]
-    C --> D[Generate Patch]
-    D --> E{AST Valid?}
-    E -- No --> F[Self-Debug]
+    A([Task]) --> B[Read file tree]
+    B --> C[Plan]
+    C --> D[Generate patch]
+    D --> E{AST valid?}
+    E -- no --> F[Self-debug]
     F --> C
-    E -- Yes --> G[Run Tests]
-    G -- Fail --> F
-    G -- Pass --> H([Apply Changes])
+    E -- yes --> G[Run tests]
+    G -- fail --> F
+    G -- pass --> H([Apply])
 ```
 
 </details>
 
-<details>
-<summary><b>Pure-Sight — vision pipeline</b></summary>
+<br>
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2b1a10','primaryTextColor':'#FFE8CC','primaryBorderColor':'#FF7A18','lineColor':'#FFB347'}}}%%
-flowchart LR
-    A[Camera Stream] --> B[Frame Capture]
-    B --> C[Pre-process]
-    C --> D[YOLOv8]
-    D --> E[Tracking]
-    E --> F[Alerts]
-    E --> G[Telemetry]
-    F --> H[Dashboard]
-    G --> H
-```
-
-</details>
-
-<details>
-<summary><b>Clinipaws — diagnosis flow</b></summary>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2b1a10','primaryTextColor':'#FFE8CC','primaryBorderColor':'#FF7A18','lineColor':'#FFB347'}}}%%
-flowchart TB
-    U([Farmer / Vet]) --> S[Symptoms]
-    U --> I[Lesion Image]
-    S --> C1[Symptom Classifier]
-    I --> C2[CV Model]
-    C1 --> M[Result Fusion]
-    C2 --> M
-    M --> R[Diagnosis Report]
-    R --> T[Tele-vet Review]
-```
-
-</details>
-
-<details>
-<summary><b>DataPilot AI — analysis loop</b></summary>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2b1a10','primaryTextColor':'#FFE8CC','primaryBorderColor':'#FF7A18','lineColor':'#FFB347'}}}%%
-flowchart LR
-    A[Raw Dataset] --> B[Auto EDA]
-    B --> C[Hypotheses]
-    C --> D[Generate Code]
-    D --> E{Success?}
-    E -- No --> F[Fix Code]
-    F --> D
-    E -- Yes --> G[Insights & Charts]
-```
-
-</details>
-
-&nbsp;
-
-### `$ cat principles.txt`
-
-```text
-1. Evaluate before scaling      → every agent/model gets a benchmark first
-2. Never trust raw LLM output   → AST checks, schema validation, guardrails
-3. Latency is a feature         → async I/O, batching, caching, optimized inference
-4. Reproducible by default      → Docker, pinned deps, environment parity
-5. Observable systems           → logs, telemetry, traces for debuggable failures
-```
-
-&nbsp;
-
-### `$ git log --stats`
+## ✦ Toolbox
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/gruvbox/0-profile-details.svg" alt="Profile details" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,django,postgres,mysql,redis,docker,nginx,linux,git,githubactions,streamlit,jupyter&theme=dark&perline=8" />
 
-<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/gruvbox/3-stats.svg" alt="Stats" width="49%" />
-<img src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Top languages" width="49%" />
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=M-Awais-11&theme=gruvbox&hide_border=true&fire=FF7A18&ring=FFB347&currStreakNum=FFB347&background=282828" alt="Streak" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/M-Awais-11/M-Awais-11/output/github-snake.svg" />
-</picture>
+<img src="https://img.shields.io/badge/scikit--learn-fab387?style=flat-square&logo=scikitlearn&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/Pandas-89b4fa?style=flat-square&logo=pandas&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/NumPy-74c7ec?style=flat-square&logo=numpy&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/HuggingFace-f9e2af?style=flat-square&logo=huggingface&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/OpenAI-a6e3a1?style=flat-square&logo=openai&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/LangChain-94e2d5?style=flat-square&logo=langchain&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/ONNX-cba6f7?style=flat-square&logo=onnx&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/YOLOv8-f5c2e7?style=flat-square&logo=ultralytics&logoColor=1e1e2e" />
 
 </div>
 
-&nbsp;
+<br>
 
-### `$ cat roadmap-2026.md`
+## ✦ How I work
+
+<table>
+<tr>
+<td width="20%" align="center"><b>📏<br>Measure</b><br><sub>benchmark before scaling</sub></td>
+<td width="20%" align="center"><b>🛡️<br>Verify</b><br><sub>never trust raw LLM output</sub></td>
+<td width="20%" align="center"><b>⚡<br>Speed up</b><br><sub>latency is a feature</sub></td>
+<td width="20%" align="center"><b>🐳<br>Reproduce</b><br><sub>Docker and pinned deps</sub></td>
+<td width="20%" align="center"><b>🔭<br>Observe</b><br><sub>logs, telemetry, traces</sub></td>
+</tr>
+</table>
+
+<br>
+
+## ✦ Right now
+
+- 🔭 **Building** multi-agent orchestration inside DevMind
+- 🌱 **Exploring** tool-calling reliability and LLM evaluation
+- ⚙️ **Optimizing** YOLOv8 latency with ONNX / TensorRT
+- 🤝 **Looking for** AI/ML, LLM application and Python backend roles
+
+<details>
+<summary><b>2026 roadmap</b></summary>
+<br>
 
 - [x] Ship DevMind v1 with AST-validated edits
 - [x] Deploy Clinipaws CV pipeline
@@ -206,35 +197,34 @@ flowchart LR
 - [ ] Open-source an LLM evaluation toolkit
 - [ ] Publish technical deep-dives on agent reliability
 
-&nbsp;
-
-### `$ ./hire --me`
-
-| 🧠 AI Agents & LLM Apps | 👁️ Computer Vision | ⚡ Python Backends |
-|:--|:--|:--|
-| Agentic workflows, RAG, tool-calling, code-synthesis tools | Detection, tracking, real-time inference, deployment | FastAPI / Django APIs, PostgreSQL, Docker, async services |
-
-<details>
-<summary><code>$ cat faq.md</code></summary>
-<br>
-
-**Open to remote?** Yes — globally remote, flexible with time zones.
-**Best-fit roles?** AI/ML Engineer · LLM Applications Engineer · Python Backend Engineer · Computer Vision Engineer.
-**Fastest way to reach me?** LinkedIn message or the portfolio contact section.
-
 </details>
 
-&nbsp;
+<br>
+
+## ✦ GitHub at a glance
 
 <div align="center">
 
-```text
-$ echo "Let's build something."
-```
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Awais-11&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Awais-11&layout=compact&theme=catppuccin_mocha&hide_border=true" />
 
-[![Portfolio](https://img.shields.io/badge/visit_portfolio-FF7A18?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-six-tan-45.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/connect_on_linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-awais-097a39306)
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b1a10,100:1a1a1a&height=50&section=footer" width="100%" alt="Footer" />
+<img src="https://streak-stats.demolab.com?user=M-Awais-11&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=f5c2e7&sideLabels=bac2de&dates=a6adc8" />
+
+</div>
+
+<br>
+
+## ✦ Say hello
+
+Open to **AI/ML Engineer**, **LLM Applications**, **Python Backend** and **Computer Vision** roles, fully remote and flexible with time zones. The fastest way to reach me is a LinkedIn message.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/m-awais-097a39306"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" /></a>
+<a href="https://my-portfolio-six-tan-45.vercel.app/"><img src="https://img.shields.io/badge/See_my_portfolio-cba6f7?style=for-the-badge&logo=vercel&logoColor=1e1e2e" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,6,3,0&height=90&section=footer" width="100%" alt="Footer" />
 
 </div>
