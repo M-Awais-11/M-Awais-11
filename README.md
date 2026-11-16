@@ -36,7 +36,7 @@
 
 **🚀 Flagship**<br>DevMind — autonomous AI-driven IDE & workflow orchestrator
 
-</td>
+</td> 
 <td width="50%" valign="top">
 
 **🎯 Focus**<br>Agentic Workflows · Multimodal AI · Production Backends · LLM Tooling
